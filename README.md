@@ -7,8 +7,6 @@ Gegenereerde HTML werd in index.html geplakt.
 
 ### Opstarten
 
-Dan 
-
 ```
   npm install
   node index.js
